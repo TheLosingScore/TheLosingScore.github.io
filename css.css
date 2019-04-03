@@ -1,6 +1,8 @@
+ @font-face { font-family: ChewyPro; src: url('ChewyPro.ttf'); }
+ 
 body{
 	background-color:#EFC7CE;
-	font-family: Chewy Pro Regular;
+	font-family: ChewyPro;
 	margin: auto;
 }
 a#nav:hover { 
@@ -70,7 +72,7 @@ a{
 	
 	caption
 		{
-			font-family: Chewy Pro Regular;
+			font-family: ChewyPro;
 			font-weight:bold;
 			color:black;
 		};
@@ -86,7 +88,7 @@ a{
 	
 	caption
 		{
-			font-family: Chewy Pro Regular;
+			font-family: ChewyPro;
 			font-weight:bold;
 			color:black;
 		};
