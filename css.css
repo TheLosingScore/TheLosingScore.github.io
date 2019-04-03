@@ -1,0 +1,112 @@
+body{
+	background-color:#EFC7CE;
+	font-family: Chewy Pro Regular;
+	margin: auto;
+}
+a#nav:hover { 
+	background-color: #8DE2E3;
+	border-radius: 10px; 
+	color:purple;
+	text-decoration:none;
+}
+a{ 
+	color:blue;
+	text-decoration:none;
+}
+.fb {
+    width: 25px;
+    height: 25px;
+    background: url("facebook.png") no-repeat;
+    display: inline-block;
+	margin-right:3px;
+	float: right;
+}
+.fb:hover {
+	background: url("facebookh.png") no-repeat;
+}
+
+.bc {
+	width: 25px;
+	height: 25px;
+	background: url("bandcamp.png") no-repeat;
+	display: inline-block;
+	margin-right:3px;
+	float: right;text-align:right;
+}
+.bc:hover {
+	background: url("bandcamph.png") no-repeat;
+}
+
+.yt {
+	width: 25px;
+	height: 25px;
+	background: url("youtube.png") no-repeat;
+	display: inline-block;
+	float: right;
+}
+.yt:hover {
+	background: url("youtubeh.png") no-repeat;
+}
+
+.tw {
+	width: 25px;
+	height: 25px;
+	background: url("twitter.png") no-repeat;
+	display: inline-block;
+	margin-right:3px;
+	float: right;
+}
+.tw:hover {
+	background: url("twitterh.png") no-repeat;
+}
+
+#wrapper
+{
+	width:975px;
+	table-layout:fixed;
+	text-align:left; 
+	margin: auto;
+	border-collapse:collapse;
+	
+	caption
+		{
+			font-family: Chewy Pro Regular;
+			font-weight:bold;
+			color:black;
+		};
+		tr,td,th
+}
+#wrapper2
+{
+	width:978px;
+	table-layout:fixed;
+	text-align:center; 
+	margin: auto;
+	border-collapse:collapse;
+	
+	caption
+		{
+			font-family: Chewy Pro Regular;
+			font-weight:bold;
+			color:black;
+		};
+		tr,td,th
+}
+.centertext{
+   text-align:center;
+  }
+
+#bagr{text-align:center;}
+#fobg{background-color:#8DE2E3;}
+#cap{background-color:#FFFF33;margin-top:20px;}
+#title{background-color:#8DE2E3;}
+#mbg{text-align:left;
+	background-color:#99FF66;}
+#wbg{text-align:left;
+	background-color:#FF6699;}
+#rowa{text-align:left;}
+#rowb{text-align:left;}
+#banner{
+	font-size:50;
+	color:#EFC7CE;
+	align:left;}
