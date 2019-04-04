@@ -1,5 +1,11 @@
- @font-face { font-family: ChewyPro; src: url('ChewyPro.ttf'); }
- 
+@font-face { font-family: ChewyPro; src: url('ChewyPro.ttf'); }
+
+.uitab{
+	 float:left;
+ }
+.uitay{
+	 float:right;
+ }
 body{
 	background-color:#EFC7CE;
 	font-family: ChewyPro;
